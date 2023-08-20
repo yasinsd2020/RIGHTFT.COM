@@ -35,7 +35,7 @@ const Header = () => {
       <div
         className={`${postion} bg-red-400 top-0 left-0 w-full ${postion === "absolute"
             ? "bg-gradient-to-b from-gray-950"
-            : "bg-slate-950"
+            : "bg-zinc-900"
 
           } bg-transparent shadow-sm`}
         style={{ zIndex: 100 }}
